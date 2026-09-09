@@ -12,9 +12,6 @@ export ICON=/usr/share/icons/hicolor/256x256/apps/helix.png
 export DESKTOP=/usr/share/applications/Helix.desktop
 export STARTUPWMCLASS=helix
 
-# ?
-ulimit -n 65536
-ulimit -u 32768
 
 # Deploy dependencies
 quick-sharun \
